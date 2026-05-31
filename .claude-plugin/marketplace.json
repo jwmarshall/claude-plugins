@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "jwmarshall",
+  "description": "Jonathon Marshall's personal Claude Code plugins.",
+  "version": "0.1.0",
+  "owner": {
+    "name": "Jonathon W. Marshall",
+    "url": "https://github.com/jwmarshall"
+  },
+  "plugins": [
+    {
+      "name": "scopewright",
+      "source": "./scopewright",
+      "description": "Interactively scaffold a SCOPED review subagent tailored to your project. You supply the domain; it prescribes the read-only, injection-resistant structure.",
+      "version": "0.1.0",
+      "license": "MIT",
+      "keywords": [
+        "scoped",
+        "code-review",
+        "subagent",
+        "scaffold",
+        "generator"
+      ]
+    }
+  ]
+}

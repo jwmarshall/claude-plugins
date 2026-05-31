@@ -1,0 +1,14 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Logs / ephemeral agent output
+.agents/logs/
+*.log
+
+# temporary do not commit
+notes

@@ -11,7 +11,7 @@ marketplace.
 Add this marketplace in Claude Code:
 
 ```
-/plugin marketplace add jwmarshall/claude-code
+/plugin marketplace add jwmarshall/claude-plugins
 ```
 
 Then browse and install plugins with:
